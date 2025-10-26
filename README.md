@@ -1,2 +1,2 @@
-# Demo Git Flow (editado desde feature2) forzado main
+# Demo Git Flow
 ## Cambios en rama dev
