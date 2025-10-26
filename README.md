@@ -1,2 +1,2 @@
-# Demo Git Flow
+# Demo Git Flow (conflicto forzado main)
 ## Cambios en rama dev
