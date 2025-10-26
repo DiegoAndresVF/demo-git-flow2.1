@@ -1,2 +1,2 @@
-# Demo Git Flow (conflicto forzado main) asdfasdf
+# Demo Git Flow (editado desde feature2)
 ## Cambios en rama dev
